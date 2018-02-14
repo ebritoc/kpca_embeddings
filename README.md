@@ -1,1 +1,2 @@
-The original repository has been moved to https://github.com/fraunhofer-iais/kpca_embeddings
+### The original repository has been transfered to https://github.com/fraunhofer-iais/kpca_embeddings
+### This fork will not be updated any more
